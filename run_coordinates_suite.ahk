@@ -1,0 +1,1 @@
+﻿F6::Run "C:\devops\coordinates_suite\target\release\coordinates_suite.exe"
