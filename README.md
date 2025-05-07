@@ -1,6 +1,8 @@
 # CoordinatesSuite
 
 A desktop application for converting and visualizing coordinates between UTM and Latitude/Longitude formats with clipboard integration, CSV/KML export, and OpenStreetMap background.
+
+
 ![alt text](screenshot.png "CoordinatesSuite")
 ---
 
